@@ -16,23 +16,23 @@ Desenvolver uma API simples e realizar testes de carga e perfomance, incluindo:
 
 ### 1. Criar o arquivo `main.go`
 
-![Print](imgs/sc1-s9.png)
+![Print](sc1-s9.png)
 
 ### 2. Criar o arquivo `smoke-test.js` para testes e alterar parâmetros para testes.
 
-![Print](imgs/sc2-s9.png)
+![Print](sc2-s9.png)
 
 ### 3. Realizando testes de Carga (load test) e resultados obtidos.
 
-![Print](imgs/sc3-s9.png)
+![Print](sc3-s9.png)
 
 ### 4. Realizando testes de Estresse (stress test) e resultados obtidos.
 
-![Print](imgs/sc4-s9.png)
+![Print](sc4-s9.png)
 
 ### 5. Realizando testes de Pico (spike test) e resultados obtidos.
 
-![Print](imgs/sc5-s9.png)
+![Print](sc5-s9.png)
 
 ### Conclusão sobre a atividade
 
